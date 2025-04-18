@@ -1,0 +1,22 @@
+FILEPATH IS : /home/marwan/PCAP/pcap_file.pcapng
+----- Network Traffic Analysis Report -----
+1. Total Packets: 4572
+2. Protocols:
+   - HTTP: 0 packets
+   - HTTPS/TLS: 1455 packets
+
+3. Top 5 Source IP Addresses:
+   - 192.168.1.8: 2090 packets
+   - 172.217.19.36: 401 packets
+   - 108.159.120.100: 400 packets
+   - 142.251.37.232: 209 packets
+   - 163.121.128.134: 94 packets
+
+4. Top 5 Destination IP Addresses:
+   - 192.168.1.8: 2433 packets
+   - 108.159.120.100: 338 packets
+   - 172.217.19.36: 323 packets
+   - 163.121.128.134: 103 packets
+   - 142.251.37.232: 86 packets
+
+----- End of Report -----
